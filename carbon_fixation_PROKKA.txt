@@ -1,0 +1,9 @@
+DHLAKHBD_00148	CDS	624	mtnB	4.2.1.109	COG0235	Methylthioribulose-1-phosphate dehydratase
+DHLAKHBD_01587	CDS	1284	PSK	2.7.1.47	COG1070	D-ribulose kinase
+DHLAKHBD_02003	CDS	684	rpe	5.1.3.1		Ribulose-phosphate 3-epimerase
+DHLAKHBD_02207	CDS	276	ccmK_1		COG4577	Carbon dioxide-concentrating mechanism protein CcmK
+DHLAKHBD_02213	CDS	342	cbbS2	4.1.1.39	COG4451	Ribulose bisphosphate carboxylase small chain 2
+DHLAKHBD_02214	CDS	1413	cbbL2	4.1.1.39	COG1850	Ribulose bisphosphate carboxylase large chain 2
+DHLAKHBD_02215	CDS	312	ccmK_2		COG4577	Carbon dioxide-concentrating mechanism protein CcmK
+DHLAKHBD_02223	CDS	1716	bicA		COG0659	Bicarbonate transporter BicA
+DHLAKHBD_02241	CDS	732		4.1.99.5		Aldehyde decarbonylase
